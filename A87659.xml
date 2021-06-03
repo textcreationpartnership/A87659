@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers proved apostats and heathens And a specimen of the Quakers great malice and ognorance in their late printed epigram they have made or procured to be made against me both in Latin and English, and which their printer Tacy Sowl doth publickly sell, with some observations of mine upon it. By George Keith.</title>
+            <author>Keith, George, 1639?-1716.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87659</idno><idno type="EEBO-CITATION">99897830</idno>
+  <idno type="VID">133374</idno>
+  <idno type="EEBO-PROQUEST">2248509496</idno>
+  
+            <idno type="STC">Wing K196</idno>
+            <idno type="STC">ESTC R232142</idno>
+            <idno type="PROQUEST">99897830</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897830e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133374)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2533:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers proved apostats and heathens And a specimen of the Quakers great malice and ognorance in their late printed epigram they have made or procured to be made against me both in Latin and English, and which their printer Tacy Sowl doth publickly sell, with some observations of mine upon it. By George Keith.</title>
+                  <author>Keith, George, 1639?-1716.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Brabazon Aylmer at the Three Pidgeons in Cornhill, and Charles Brome at the Gun at the West-end of St. Paul's,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">In Georgium Keithum Caledonium apostatam epigramma. --  Latin --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:133374:1"/>
+            <pb n="1" facs="tcp:133374:1"/>
+            <head>The <hi>Quakers</hi> Proved Apostats and Heathens. AND A SPECIMEN OF THE QUAKERS Great Malice and Ignorance <hi>In their late Printed</hi> EPIGRAM <hi>they have made or procured to be made against me both in Latin and English, and which their Printer</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acy Sowl <hi>doth publickly Sell,</hi> With some Observations of mine upon it.</head>
+            <byline>
+               <hi>By</hi> GEORGE KEITH.</byline>
+            <div type="epigram">
+               <head>The which said Epigram both in Latin and English, with its Title, thus followeth.</head>
+               <div xml:lang="lat" type="version">
+                  <head>
+                     <hi>In</hi> Georgium Keithum <hi>Caledonium Apostatam Epigramma, Lucis Triumphum, &amp;</hi> Keithi <hi>cum conjuratis suis Catastrophen Praenuncians.</hi>
+                  </head>
+                  <l>
+                     <hi>KEithus, Ecebolius, J'ul anus</hi> Apostata factus,</l>
+                  <l>Antiquae Fidei perditus Hostis adest.</l>
+                  <pb n="2" facs="tcp:133374:2"/>
+                  <l>Credula belligeros memoravit Fama Gigantes,</l>
+                  <l>Caelos Stultitiâ qui petiêre suâ.</l>
+                  <l>Sed nova Bella parat <hi>Keithus,</hi> superat{que} Gigantes;</l>
+                  <l>Fictum illi, Hic Verum jam petit ecce Deum.</l>
+                  <l>Difficile est <hi>Keitho</hi> nihil, ipsum Acheronta movebit,</l>
+                  <l>In Lucem Satyras ut Vomat ille feras.</l>
+                  <l>Ast invicta stetit, stabit{que} per omnia Sêcla</l>
+                  <l>Lux, Victo <hi>Keitho</hi> Sacricolis{que} suis.</l>
+               </div>
+               <div xml:lang="eng" type="version">
+                  <head>The same in <hi>English Paraphrase.</hi> An <hi>Epigram,</hi> upon <hi>George Keith,</hi> the Caledonian Apostate, Predicting The Triumph of the <hi>Light,</hi> and Overthrow of <hi>Keith</hi> and his <hi>Accomplices.</hi>
+                  </head>
+                  <l>
+                     <hi>KEith, Ecebolius</hi>-like, now leads the Van</l>
+                  <l>O'th' Forlorn Hope; Apostate <hi>Julian!</hi>
+                  </l>
+                  <l>The Apostolick Faith once own'd, hut now</l>
+                  <l>This Renegade the same doth disavow.</l>
+                  <l>Poetick Stories Fab'lously Report,</l>
+                  <l>On Heav'n itself the <hi>Giants</hi> made Effort.</l>
+                  <l>But <hi>Keith</hi> out-does them, his proud Folly view;</l>
+                  <l>They a Feign'd God attack'd but he the True.</l>
+                  <l>Keith nothing Scares, into <hi>Black Hell</hi> he goes;</l>
+                  <l>Thence <hi>Stygian Darkness</hi> at the <hi>Light</hi> he throws.</l>
+                  <l>But th' <hi>Light</hi> hath still Triumphed ever all</l>
+                  <l>For Ages past, and Triumph ever shall:</l>
+                  <pb n="3" facs="tcp:133374:2"/>
+                  <l>Whilst Baffled <hi>Keith,</hi> who better Things once knew,</l>
+                  <l>May Rave ith' <hi>Dark</hi> with his <hi>Benighted Crew.</hi>
+                  </l>
+               </div>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Observ. 1.</hi> THE <hi>Quakers</hi> fond conceit of glorying in what they formerly called <hi>the mark of the Beast,</hi> to wit, heathenish poetical Strains and Fictions, of Latin and Greek Heathen Authors, whom here they imitate and whose words they borrow, yet withal still pretending they will not defile their sacred Mou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hes, with giving heathenish Names to the Days of the Week and Months of the Year. O deep Hypocrisie!</p>
+               <p>
+                  <hi>Observ. 2.</hi> In their calling me not only <hi>Ecebolius</hi> and the <hi>Caledonian,</hi> (i. e. the Scottish) Apostate, but <hi>Julian the Apostate,</hi> they maliciously <hi>reflect</hi> on all true Christians of the Three Nations of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and other Chri<g ref="char:EOLhyphen"/>stian Nations, with whom I agree, in Christian Principles in Faith and Worship; and particularly they maliciously reflect on the Church of <hi>England,</hi> who hath received me into her Communion, and on our <hi>Gracious Sovereign King William,</hi> and the Parliament, Nobility, Gentry, Magistra<g ref="char:EOLhyphen"/>cy and Commons, with whom, I profess one Faith, and Religion, now seeing the <hi>Quakers</hi> make me to be <hi>Julian the Apostate,</hi> by the same method, they make all the above<g ref="char:EOLhyphen"/>mentioned, to be Heathens, and heathenish Idolaters, and of <hi>Julian the Apostat</hi>'s Religion. Is not this very insolent, daring and presumptuous, so to treat the King and Parlia<g ref="char:EOLhyphen"/>ment? by whose favour they enjoy, what toleration they have, to use their own way of Worship.</p>
+               <p>
+                  <hi>Observ. 3.</hi> They know in their Consciences, that this their Libel against me is stuffed full with Lies, as that like <hi>Julian the Apostate,</hi> I once owned the <hi>Apostolick Faith,</hi> but that now I disavow it, or disown it: That mainly for which <hi>Julian</hi> was justly termed an Apostate, was for disowning the Man <hi>Jesus Christ</hi> of <hi>Nazareth,</hi> to be God, and the Sa<g ref="char:EOLhyphen"/>viour of the World, and denying that he was to be wor<g ref="char:EOLhyphen"/>shipped
+<pb n="4" facs="tcp:133374:3"/> with divine Worship, whom he called in Contempt, <hi>the Galilean,</hi> and as he was struck with a Dart, by an un<g ref="char:EOLhyphen"/>known Hand, in his expedition against the <hi>Persians,</hi> cryed out, <hi>thou hast overcome O Galilean.</hi>
+               </p>
+               <p>This was a great and principal part of the Apostolick Faith, <hi>that the Man Jesus Christ of</hi> Nazareth, <hi>who was born of the blessed Virgin, called</hi> Mary, <hi>and who suffered under</hi> Pon<g ref="char:EOLhyphen"/>tius Pilate, <hi>was crucified, dead and buried, rose again on the 3d. day and ascended into Heaven, and sitteth at the right hand of God the Father Almighty, and from thence shall come to judge the quick and the dead, was and ever shall so remain, the Son of God, properly so called, and one and the same God, with the Father, in respect of his Divinity, and having our nature personally united to him, in respect of his humanity, for ever glorified, and who together with the Father, and the holy Ghost, is worshipped, with divine Adoration, by all true Christians:</hi> Which Faith I retain, with all true Christians throughout the World▪ and I hope ever shall, and the <hi>Quakers</hi> know in their Consciences, and it is publickly known, throughout the Three Nations and el<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewhere, that for this <hi>very Faith,</hi> my great controversie hath been against them, I affirming it, and its being necessary to our eternal Salvation, and they denying it, even the chiefest Teachers and Authors among them, as I have abundantly shewed in my several Narratives, particularly my fourth and last pub<g ref="char:EOLhyphen"/>lished this very Year; and which I offer still to prove them guilty of, even denying the Lord that bought them▪ <hi>Jesus</hi> of <hi>Nazareth,</hi> both God and Man, to be the great Saviour of the World, as <hi>Julian the Apostate</hi> did, and therefore they and their chief Teachers are fitly compared in this respect, to <hi>Julian the Apostate,</hi> being guilty of the same <hi>damna le Crime and Apostacy with him,</hi> who generally, (the elder fort among them,) were baptized into the Christian Faith, and yet have renounced both it and their Baptisme.</p>
+               <p>
+                  <hi>Observ. 4.</hi> They most <hi>impudently</hi> as well as <hi>maliciously</hi> ac<g ref="char:EOLhyphen"/>cuse me, that as the <hi>Giants</hi> did attack the false Gods, I do
+<pb n="5" facs="tcp:133374:3"/> attack the true God, I dare them to give the least instance, wherein I have ever said or writ any thing, either against the <hi>glorious Being, Names, or Attributes of God Almighty,</hi> but I can give instances of this sort against them, and have given already, particularly in my fourth Narrative, p. 55 where I have proved, that <hi>George Whitehead</hi> one of their chief Teachers has affirm'd in Print, that <hi>Christ as God suffer'd,</hi> for proof of which he perverts several places of Scripture, this I charge upon <hi>George Whitehead</hi> and the <hi>Quakers,</hi> to be an attacking of God, <hi>in his glorious Being, and attribute of impassibility.</hi>
+               </p>
+               <p>Again, <hi>William Penn,</hi> another of their great Teachers, hath not only denied <hi>that outward Person that suffered at</hi> Jerusalem, <hi>to be properly the Son of God, meaning by that outward Person, the Man Jesus of</hi> Nazareth, <hi>but hath set up a multitude of new Born Christs and Gods,</hi> viz. a new one in every regen<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Person, for thus he teacheth, that <hi>the holy Seed grows up in them, from a Seed</hi>
+                  <note place="margin">See for this in my fourth Narrative. p. 56</note>
+                  <hi>to a Child, and from a Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld to be the mighty God, perverting and m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sapplying</hi> Isa. 9. 6. <hi>to prove it; and the like doth</hi> George Whitehead, <hi>and others among them, yea so did</hi> Georg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ox.</p>
+               <p>They accuse me that I throw <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ygian Darkness at the Light,</hi> but on what is this their accusation grounded? Have I ever denied <hi>the Light within?</hi> Nay; but have given as full and ample testimony to it, both as in Heathens and true Christians, as any true Christian ought or can, in agree<g ref="char:EOLhyphen"/>ment with the Holy Scriptures, for which let the Reader please to see my <hi>Catechisms</hi> both large and shorter, and my other <hi>Books,</hi> but they will needs have me to deny <hi>the Light within,</hi> and consequently deny the true God, because I have said, and still do say, the Light within, (whither in Christian or Heathen) <hi>is not sufficient to Salvation, without something else,</hi> i. e. <hi>without the Man Jesus of</hi> Nazareth, <hi>and what he did and suffered for us on Earth, and his mediation for us in Heaven:</hi> By the <hi>sufficiency of the Light within,</hi> it
+<pb n="6" facs="tcp:133374:4"/> is well enough known, what the <hi>Quakers</hi> mean in op<g ref="char:EOLhyphen"/>position to all sound Christians, as well as to me, which is not, <hi>what God can do, or could ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e done, by his absolute Soveraignty,</hi> but what he is pleased to do; that is, <hi>whither God hath given either to all Men, or to any part of Mankind, that sufficiency of Light, that by obedience to its dictates, all or any shall be saved, without the merit of the Man Christ, his precious Blood that was outwardly shed for us, and whi<g ref="char:EOLhyphen"/>ther Faith both in the Man Christ Jesus, and in his Blood is not necessary to be preached, and received, in order to our Eternal Salvation.</hi> Now by the same Argument of theirs, they make not only all the Christians both now, and since the Apostles days, but the Apostles also guilty of <hi>attacking the true God,</hi> and so worse than the <hi>Giants</hi> who attack'd but the false Gods, for their affirming, that the <hi>Light with<g ref="char:EOLhyphen"/>in</hi> Men, is <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the whole and entire Saviour, Jesus Christ, both God and Man, Flesh and Spirit, yea Flesh, Blood and Bones, [the Quakers mad Divinity,] which they learned from their Apostle <hi>George Fox,</hi> as I have shewed in my fourth Narrative. But had the Apostles been of the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> Faith, in vain did they Preach, that Christ dyed for our Sins, on the Tree of the Cross without us.</p>
+               <p>
+                  <hi>Observ. 6.</hi> They predict <hi>by way of Prophecy,</hi> the <hi>triumph</hi> of the <hi>Light, (vix.</hi> the <hi>Light within all Men,</hi> Heathens as well as Christians,) without any thing else, for eternal Salvation, not only over <hi>Keith,</hi> but all sound Christian Professors, with whom he is one in Faith, that is, the tri<g ref="char:EOLhyphen"/>umph of <hi>Deisme</hi> and <hi>Paganisme,</hi> over the <hi>Christian Faith</hi> and Religion, judge Christian Reader who is likest to <hi>Ju<g ref="char:EOLhyphen"/>lian</hi> the Apostate here. For if their Principle prevail, and their Prophecy take place, than the <hi>Light within</hi> only is to be Preached, to be sufficient for Salvation, and so fare<g ref="char:EOLhyphen"/>well all the peculiar Articles of the Christian Faith, [by this mad Divinity] let them be buried in silence, and the <hi>Bible buried,</hi> or <hi>burned,</hi> and only the <hi>Light within</hi> be Preached up, as the intire Saviour to be the only and alone object of Faith,
+<pb n="7" facs="tcp:133374:4"/> which is <hi>Deisme</hi> and <hi>Paganisme</hi> with a witness, and was the very Religion of <hi>Julian</hi> the <hi>Apostate,</hi> who from a professed Christian, be<g ref="char:EOLhyphen"/>came a Heathen Philosopher, and with them did magnifie the <hi>Light within,</hi> (as both <hi>Stoicks</hi> and <hi>Platonists</hi> commonly did) and vilifie and despise Jesus of <hi>Nazareth,</hi> as much as the <hi>Quakers</hi> do.</p>
+               <p>Note, Whereas several other scurrilous Pamphlets are lately Printed by the <hi>Quakers,</hi> and others favouring their wild Antichri<g ref="char:EOLhyphen"/>stian Notions against me, charging me with some passages in my former Books, three Years ago retracted by me [none of which contained their vile Errors, oppugning the fundamentals of Chri<g ref="char:EOLhyphen"/>stianity] I think not at present to take further particular notice of them, it being a mean artifice in them, thus to pull at the <hi>Mote</hi> in my eye, which I have pulled out before them, while the <hi>Beam of</hi> a Body of the vilest Heresies that ever were heard in the World, remains in their own Eyes. For shame let them clear them<g ref="char:EOLhyphen"/>selves of the things I have proved them guilty of in my <hi>4th.</hi> Nar<g ref="char:EOLhyphen"/>rative, and in my Book of the <hi>Deisme</hi> of <hi>W. Penn &amp;c.</hi> and other my Books against them before they thus charge me with things that I have retracted in most particulars, and generally in all. But yet further to stop their idle and impertinent clamor, I do by these Presents retract, disown and deny whatever is to be found in any of my Books contrary <hi>to the holy Scriptures, or to the 39 Articles of the Church of</hi> England which I sincerely believe is perfectly accord<g ref="char:EOLhyphen"/>ing to the Doctrine of the holy Scriptures, and also disown, retract and deny al <hi>uncharitable Words,</hi> and Expressions, I have formerly used in any of my former Books, while under the Profession of a <hi>Quaker</hi> against either the Church of <hi>England,</hi> or any of her true Members, or any other true Protestant Church or particular Per<g ref="char:EOLhyphen"/>son, or Persons, Members of any true Protestant Churches. And this I hope will suffice all moderate Persons, for others, I neither can, nor will endeavour to satisfie them, being unreasonable.</p>
+            </div>
+            <div type="part">
+               <head>Some Observations on a late Sheet Printed by some of the <hi>Quakers</hi> (but without any particular Names) called <hi>the Christianity of the Peo<g ref="char:EOLhyphen"/>ple called Quakers</hi> asserted by <hi>George Keith,</hi> which they pretend to be an answer to the Sheet, lately Published by me, called <hi>a Serious Call to the Quakers,</hi> &amp;c.</head>
+               <p>
+                  <hi>Observ.</hi> 1. THey do most unfairly and inhumanly labour to fix upon me the same Errors, wherewith I have charged them, in my said Sheet, <hi>called a Serious Call,</hi> &amp;c. by quot<g ref="char:EOLhyphen"/>ing diverse Passages in my former Books, writ by me, while under
+<pb n="8" facs="tcp:133374:5"/> the Profession of a <hi>Quaker,</hi> notwithstanding, that whatever is con<g ref="char:EOLhyphen"/>trary to the Holy Scriptures, in those passages I have told them again and again, I have retracted in print about three Years ago, and whatever Error a Man retracts, he is no more chargeable with it, according to common Justice, and the general consent of all rational Men.</p>
+               <p>
+                  <hi>Obs.</hi> 2. On strick Examination, I do not find any of those Quo<g ref="char:EOLhyphen"/>tations, they bring out of my former Books, to prove me guilty of denying any one Article of the <hi>Christian Faith,</hi> commonly <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o called, <hi>viz</hi> such as contained in the <hi>Apostles Creed,</hi> whereas the Quotations I have given in the Sheet called <hi>a Serious Call,</hi> &amp;c. effectually proves, they have denyed all and every one of the 12 <hi>Articles of that Creed,</hi> and consequently the whole <hi>Christian Faith.</hi>
+               </p>
+               <p>
+                  <hi>Obs.</hi> 3. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivers of those Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>otations they give out of my for<g ref="char:EOLhyphen"/>mer Books are sound and directly contradictory to their vile Er<g ref="char:EOLhyphen"/>rors, and to the Quotations I have given out of their Books, in the Sheet called <hi>a Serious Call,</hi> &amp;c. as the impartial Readers will easily find by comparing them together.</p>
+               <p>
+                  <hi>Obs.</hi> 4. They most unjustly and basely reflect on those Eight worthy Persons, Ministers of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Church of <hi>England</hi> as on me, <hi>viz.</hi> that the Quotations g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ven by me and attested by them, do not exactly agree with the <hi>Quakers</hi> Books out of which the were ta<g ref="char:EOLhyphen"/>ken, but they have normall their large Sheet shewed the least material disagreement, which if they could no doubt they would have done. They say they have Examined my <hi>4th. 6th. 20th.</hi> 21st. and find that I am mistaken▪ and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o are my Brethren, but they have not given the least instance or hint▪ wherein the mistake lies, and upon a fresh Examination, of these 4 Quotations, I do affirm, there is no mistake in them, and their saying there is, is a meer juggle, and most confident falshood.</p>
+               <p>
+                  <hi>Obs.</hi> 5. They take occasion to reflect both on those Eight Mi<g ref="char:EOLhyphen"/>nisters and me, for a small mistake of the Printer or Tran<g ref="char:EOLhyphen"/>scriber, on the Margin of the <hi>7th</hi> Quotation, giving <hi>G. Fox</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> words, <hi>that the Scriptures are not Infallible, nor Divine, but Humane,</hi> p. 89 being put for p 302. which in my <hi>4th.</hi> Narrative p. 22. is rightly placed, but they confess they are <hi>G. Fox</hi>'s words elsewhere. And this is all they object against Fifty and two Quotations, con<g ref="char:EOLhyphen"/>taining most vile Errors and Heresies I have given, in the Sheet called <hi>a Serious Call,</hi> collected our of their Books, and above Two Hundred and Fifty given in my <hi>4th.</hi> Narrative.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Brabazon Aylmer</hi> at the Three Pidgeons in <hi>Cornhill,</hi> and <hi>Charles Brome</hi> at the Gun at the West-end of St. <hi>Paul</hi>'s, 1700.</p>
+            <pb facs="tcp:133374:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
